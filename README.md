@@ -13,4 +13,4 @@ bruh = r_rinput("text: ")
 print(bruh)
 ```
 
-`r_rinput(text)` is returns `rinput("text: ").input_out`
+`r_rinput(text)` is returns `rinput(text).input_out`
